@@ -1,4 +1,3 @@
-# Akshita_Sharma_CSEAIML4_FraudDetectioninOTTPlatforms
 # Fraud Detection in OTT Platforms
 
 ## Team Members
