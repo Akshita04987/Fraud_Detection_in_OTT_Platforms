@@ -1,16 +1,8 @@
 # Fraud Detection in OTT Platforms
 
-## Team Members
-- Akshita Sharma (2301730278)
-- Aruhi Choudhary (2301730247)
-- Chhavi Arora (2301730253)
-- Aarushi (2301730216)
-
 ## Project Description
 This project presents a machine learning-based solution for detecting fraud in OTT streaming platforms. The system identifies suspicious activities like account sharing, credential stuffing, content piracy, and payment fraud by analyzing user behavior, login data, and streaming patterns. A web-based interface built using Streamlit allows real-time predictions of fraudulent activity based on user inputs.
 
-## Video Explanation
-[Watch the video explanation here](https://drive.google.com/file/d/1YIrYrLoetC7tq7Z6VLddtSEionvF9fAf/view?usp=drivesdk)
 
 ## Technologies Used
 - Python 3.x
